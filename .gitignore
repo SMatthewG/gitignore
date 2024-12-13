@@ -1,4 +1,5 @@
 config.txt
+config2.txt
 data/
 *.exe
 ### Laravel ###
